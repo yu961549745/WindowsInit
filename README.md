@@ -4,10 +4,16 @@
 ## 办公软件:
 + Office 2019 学校正版
     + MathType 6.9b
++ Visio 2016 学校正版
 + Adobe 学校正版
     + Acrobt
     + PS
 + [TexLive](https://www.tug.org/texlive/acquire-iso.html)
++ 几何绘图
+    + [draw.io](https://www.draw.io/)
+    + [geogebra](https://www.geogebra.org/)
+    + 几何画板
++ [CAJViewer](http://cajviewer.cnki.net/)
 
 ## 常用工具
 + 社交
@@ -20,7 +26,10 @@
 + [TeamViewer](https://www.teamviewer.com/cn/)
 + 视频播放: [PotPlayer](http://www.potplayer.org/)
 + 下载: 百度网盘, 已充会员. (迅雷VIP7会员已拉黑, 资源吸引力不足, 没动力充值)
+
+## 暂不需要
 + [美图秀秀](http://xiuxiu.dl.meitu.com/xiuxiu_setup.exe)
++ [格式工厂](http://www.pcgeshi.com/)
 
 ## 数学软件
 + Matlab 2019 学校正版
