@@ -9,10 +9,23 @@
     + PS
 + [TexLive](https://www.tug.org/texlive/acquire-iso.html)
 
+## 常用工具
++ 社交
+    + [TIM](https://tim.qq.com/download.html)
+    + [WeChat](https://pc.weixin.qq.com/)
++ 浏览器:
+    + Chrome 主力默认
+    + 兼容浏览器: 反正自带IE, 就先不下了
++ 压缩刻录: [7-zip](https://www.7-zip.org/)
++ [TeamViewer](https://www.teamviewer.com/cn/)
++ 视频播放: [PotPlayer](http://www.potplayer.org/)
++ 下载: 百度网盘, 已充会员. (迅雷VIP7会员已拉黑, 资源吸引力不足, 没动力充值)
++ [美图秀秀](http://xiuxiu.dl.meitu.com/xiuxiu_setup.exe)
+
 ## 数学软件
 + Matlab 2019 学校正版
-+ Maple 2018
 + Maple 18
++ Maple 2018
 + Mathematica 11.1.1 (暂未寻找新版)
 + Gurobi 教育版
 
@@ -31,7 +44,9 @@
     + [vcpkg](https://github.com/Microsoft/vcpkg) 微软官方包管理器
     + [cmake](https://cmake.org/)
 + 数据库
-    + MySQL 带图形界面社区版
+    + MySQL 带图形界面社区版 不想上 5.8 因为链接方式似乎改了挺多的
++ PHP
+    + [AppServ](https://www.appserv.org/en/download/)
 
 ## 编辑器
 + 小型快速: [Notepad++](https://notepad-plus-plus.org/)
@@ -57,18 +72,6 @@
 + [冰点下载](http://www.bingdian001.com/)
 + 制作安装盘: [rufus](https://rufus.ie/)
 + [as-ssd-benchmark](https://as-ssd-benchmark.en.softonic.com/)
-
-## 常用工具
-+ 浏览器:
-    + Chrome 主力默认
-    + 兼容浏览器: 反正自带IE, 就先不下了
-+ 压缩刻录: [7-zip](https://www.7-zip.org/)
-+ [TeamViewer](https://www.teamviewer.com/cn/)
-+ 视频播放: [PotPlayer](http://www.potplayer.org/)
-+ 下载: 百度网盘, 已充会员. (迅雷VIP7会员已拉黑, 资源吸引力不足, 没动力充值)
-
-+ [美图秀秀](http://xiuxiu.dl.meitu.com/xiuxiu_setup.exe)
-
 
 ## 命令行工具
 + 命令行安装器: [Scoop](https://github.com/lukesampson/scoop) 下列环境皆可尝试
