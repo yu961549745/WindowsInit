@@ -27,10 +27,10 @@
 + 浏览器:
     + [Chrome](https://www.google.com/intl/zh-CN_ALL/chrome/) 主力默认
     + 兼容浏览器: 反正自带IE, 就先不下了
-+ 输入法 [搜狗](https://pinyin.sogou.com/)
++ 输入法 [搜狗](https://pinyin.sogou.com/) 记得关闭所有快捷键
 + 压缩刻录: [7-zip](https://www.7-zip.org/)
 + [TeamViewer](https://www.teamviewer.com/cn/)
-+ 视频播放: [PotPlayer](http://www.potplayer.org/)
++ 视频播放: [PotPlayer](https://potplayer.daum.net/)
 + 下载: [百度网盘](http://pan.baidu.com/download), 已充会员. (迅雷VIP7会员已拉黑, 资源吸引力不足, 没动力充值)
 + [网易云音乐](https://music.163.com/#/download)
 
@@ -46,7 +46,7 @@
 + Gurobi 教育版
 
 ## 编程环境
-+ [Git](https://git-scm.com/)
++ [Git](https://git-scm.com/) [初始化配置](git.md)
 + Java
     + JDK 1.8
     + Eclipse 远古绿色版 因为自己修改了自动补全的逻辑
