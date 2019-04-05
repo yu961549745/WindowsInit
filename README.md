@@ -1,5 +1,5 @@
 # 我 Windows 装机目录
-本地链接仅用于链接本人移动硬盘
+装之前最好先修改 桌面/文档/下载 的位置
 
 ## 办公软件:
 + Office 2019 学校正版
@@ -21,8 +21,9 @@
     + [TIM](https://tim.qq.com/download.html)
     + [WeChat](https://pc.weixin.qq.com/)
 + 浏览器:
-    + Chrome 主力默认
+    + [Chrome](https://www.google.com/intl/zh-CN_ALL/chrome/) 主力默认
     + 兼容浏览器: 反正自带IE, 就先不下了
++ 输入法 [搜狗](https://pinyin.sogou.com/)
 + 压缩刻录: [7-zip](https://www.7-zip.org/)
 + [TeamViewer](https://www.teamviewer.com/cn/)
 + 视频播放: [PotPlayer](http://www.potplayer.org/)
@@ -49,7 +50,7 @@
 + Python
     + [Anaconda](https://www.anaconda.com/distribution/)
     + TensorFlow
-    + CUDA 相关
+    + CUDA 相关, 现在 Anaconda 装 TensorFlow 自导 cuda toolkit 和 cudnn 了, 不用自己操心了
         + [CUDA ToolKit](https://developer.nvidia.com/cuda-downloads)
         + [cuDNN](https://developer.nvidia.com/cudnn)
 + C/C++
