@@ -14,6 +14,7 @@
     + [geogebra](https://www.geogebra.org/)
     + 几何画板
 + [CAJViewer](http://cajviewer.cnki.net/)
++ [有道词典](https://www.youdao.com/)
 
 ## 常用工具
 + 社交
@@ -25,7 +26,8 @@
 + 压缩刻录: [7-zip](https://www.7-zip.org/)
 + [TeamViewer](https://www.teamviewer.com/cn/)
 + 视频播放: [PotPlayer](http://www.potplayer.org/)
-+ 下载: 百度网盘, 已充会员. (迅雷VIP7会员已拉黑, 资源吸引力不足, 没动力充值)
++ 下载: [百度网盘](http://pan.baidu.com/download), 已充会员. (迅雷VIP7会员已拉黑, 资源吸引力不足, 没动力充值)
++ [网易云音乐](https://music.163.com/#/download)
 
 ## 暂不需要
 + [美图秀秀](http://xiuxiu.dl.meitu.com/xiuxiu_setup.exe)
@@ -48,6 +50,8 @@
     + [Anaconda](https://www.anaconda.com/distribution/)
     + TensorFlow
     + CUDA 相关
+        + [CUDA ToolKit](https://developer.nvidia.com/cuda-downloads)
+        + [cuDNN](https://developer.nvidia.com/cudnn)
 + C/C++
     + Visual Studio 2017 社区版 (安装时注意精简环境)
     + [vcpkg](https://github.com/Microsoft/vcpkg) 微软官方包管理器
